@@ -23,5 +23,15 @@ namespace WindowsFormsApplication1
 			double height=this.Size.Height;
 			MessageBox.Show("宽" + width + "高" + height);
 		}
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
 	}
 }
